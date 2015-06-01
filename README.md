@@ -13,5 +13,5 @@ Create a new folder and clone/fetch the lib and then run virtualenv:
     cd your_folder
     git clone https://github.com/sitn/sitn_python_lib.git
     virtualenv .
-    Scripts/pip install -r requirements.txt
+    Scripts\pip install -r requirements.txt
 
