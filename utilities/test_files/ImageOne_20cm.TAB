@@ -1,0 +1,11 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  File "ImageOne_20cm.ecw"
+  Type "RASTER"
+  (549100,224500) (0,0) Label "Pt 1",
+  (558650,224500) (47750,0) Label "Pt 2",
+  (549100,217900) (0,33000) Label "Pt 3"
+  CoordSys Nonearth Units "m"
